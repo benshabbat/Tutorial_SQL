@@ -1,0 +1,101 @@
+order_id,customer_name,product_category,product_name,quantity,price_per_unit,order_date,shipping_country,payment_method,customer_age
+1001,Sarah Cohen,Electronics,Wireless Headphones,2,89.99,2024-01-15,Israel,Credit Card,28
+1002,David Levi,Books,Python Programming Guide,1,45.50,2024-01-16,Israel,PayPal,34
+1003,Emma Wilson,Clothing,Winter Jacket,1,129.99,2024-01-16,USA,Credit Card,42
+1004,Michael Brown,Electronics,Smart Watch,1,199.99,2024-01-17,UK,Debit Card,31
+1005,Rachel Green,Home & Garden,Coffee Maker,2,75.00,2024-01-18,Israel,Credit Card,29
+1006,James Taylor,Sports,Yoga Mat,3,25.99,2024-01-19,Canada,PayPal,26
+1007,Lisa Anderson,Books,Data Science Fundamentals,1,52.00,2024-01-20,USA,Credit Card,38
+1008,Yossi Mizrahi,Electronics,Bluetooth Speaker,2,65.50,2024-01-21,Israel,Credit Card,45
+1009,Sophie Martin,Clothing,Running Shoes,1,95.00,2024-01-22,France,PayPal,33
+1010,Daniel Kim,Home & Garden,Bedding Set,1,110.00,2024-01-23,Israel,Debit Card,40
+1011,Avi Shapira,Electronics,Gaming Mouse,1,49.99,2024-01-24,Israel,Credit Card,22
+1012,Maria Garcia,Sports,Tennis Racket,1,135.00,2024-01-25,Spain,Credit Card,35
+1013,Tom Harris,Books,Machine Learning Basics,2,48.50,2024-01-26,UK,PayPal,41
+1014,Noa Ben David,Clothing,Summer Dress,2,79.99,2024-01-27,Israel,Credit Card,27
+1015,John Smith,Electronics,Laptop Stand,1,39.99,2024-01-28,USA,Debit Card,36
+1016,Chen Wang,Home & Garden,Air Purifier,1,189.99,2024-01-29,Israel,Credit Card,44
+1017,Sarah Cohen,Books,Web Development Complete,1,55.00,2024-02-01,Israel,PayPal,28
+1018,Anna Rossi,Sports,Dumbbells Set,2,85.00,2024-02-02,Italy,Credit Card,30
+1019,Omar Ali,Electronics,Wireless Keyboard,1,45.99,2024-02-03,Israel,Debit Card,39
+1020,David Levi,Clothing,Casual Shirt,3,35.50,2024-02-04,Israel,Credit Card,34
+1021,Laura White,Home & Garden,Table Lamp,2,42.00,2024-02-05,USA,PayPal,32
+1022,Moshe Cohen,Electronics,USB-C Hub,1,29.99,2024-02-06,Israel,Credit Card,37
+1023,Emily Clark,Books,SQL Mastery,1,49.99,2024-02-07,Canada,Credit Card,43
+1024,Alex Johnson,Sports,Swimming Goggles,4,18.99,2024-02-08,USA,PayPal,25
+1025,Tal Alon,Clothing,Leather Belt,1,42.50,2024-02-09,Israel,Debit Card,31
+1026,Nina Patel,Electronics,Phone Case,3,15.99,2024-02-10,UK,Credit Card,29
+1027,Robert Miller,Home & Garden,Wall Clock,1,55.00,2024-02-11,USA,PayPal,46
+1028,Maya Levi,Books,Cloud Computing Guide,1,58.00,2024-02-12,Israel,Credit Card,35
+1029,Paolo Bianchi,Sports,Basketball,2,32.50,2024-02-13,Italy,Debit Card,28
+1030,Sarah Cohen,Electronics,External SSD 1TB,1,149.99,2024-02-14,Israel,Credit Card,28
+1031,Kevin Lee,Clothing,Sneakers,1,105.00,2024-02-15,USA,PayPal,33
+1032,Hila Friedman,Home & Garden,Microwave Oven,1,199.00,2024-02-16,Israel,Credit Card,41
+1033,Mark Wilson,Electronics,Webcam HD,1,79.99,2024-02-17,UK,Debit Card,37
+1034,Sophia Lopez,Books,JavaScript Advanced,2,46.00,2024-02-18,Spain,Credit Card,30
+1035,Daniel Kim,Sports,Gym Bag,1,38.50,2024-02-19,Israel,PayPal,40
+1036,Emma Wilson,Clothing,Jeans,2,68.00,2024-02-20,USA,Credit Card,42
+1037,Avi Shapira,Electronics,Monitor 27 inch,1,299.99,2024-02-21,Israel,Debit Card,22
+1038,Rachel Green,Home & Garden,Vacuum Cleaner,1,245.00,2024-02-22,Israel,Credit Card,29
+1039,Lucas Silva,Sports,Soccer Ball,3,28.99,2024-02-23,Israel,PayPal,26
+1040,Yossi Mizrahi,Books,Cybersecurity Essentials,1,62.00,2024-02-24,Israel,Credit Card,45
+1041,Jennifer Brown,Clothing,Scarf,2,24.99,2024-02-25,Canada,Debit Card,34
+1042,Chen Wang,Electronics,Tablet 10 inch,1,279.99,2024-02-26,Israel,Credit Card,44
+1043,Noa Ben David,Home & Garden,Kitchen Scale,1,32.50,2024-02-27,Israel,PayPal,27
+1044,Tom Harris,Sports,Bike Helmet,1,67.00,2024-02-28,UK,Credit Card,41
+1045,Maria Garcia,Electronics,Smart Light Bulb,4,22.50,2024-03-01,Spain,Debit Card,35
+1046,David Levi,Books,Docker & Kubernetes,1,71.00,2024-03-02,Israel,Credit Card,34
+1047,Sophie Martin,Clothing,Handbag,1,115.00,2024-03-03,France,PayPal,33
+1048,Michael Brown,Home & Garden,Blender,1,89.99,2024-03-04,UK,Credit Card,31
+1049,Sarah Cohen,Electronics,Power Bank 20000mAh,2,45.00,2024-03-05,Israel,Debit Card,28
+1050,Lisa Anderson,Sports,Resistance Bands,1,19.99,2024-03-06,USA,PayPal,38
+1051,Moshe Cohen,Books,React Native Complete,1,54.50,2024-03-07,Israel,Credit Card,37
+1052,Anna Rossi,Clothing,Sunglasses,1,82.00,2024-03-08,Italy,Credit Card,30
+1053,Omar Ali,Electronics,HDMI Cable 3m,3,12.99,2024-03-09,Israel,PayPal,39
+1054,Tal Alon,Home & Garden,Cutting Board,2,28.00,2024-03-10,Israel,Debit Card,31
+1055,Emily Clark,Sports,Water Bottle,5,14.99,2024-03-11,Canada,Credit Card,43
+1056,Robert Miller,Electronics,Mechanical Keyboard,1,129.99,2024-03-12,USA,PayPal,46
+1057,Maya Levi,Books,DevOps Handbook,1,59.00,2024-03-13,Israel,Credit Card,35
+1058,James Taylor,Clothing,Hoodie,2,55.50,2024-03-14,Canada,Debit Card,26
+1059,Hila Friedman,Home & Garden,Toaster,1,65.00,2024-03-15,Israel,Credit Card,41
+1060,Nina Patel,Electronics,Wireless Charger,2,35.99,2024-03-16,UK,PayPal,29
+1061,Paolo Bianchi,Sports,Yoga Block,2,16.50,2024-03-17,Italy,Credit Card,28
+1062,Kevin Lee,Books,Git Version Control,1,38.00,2024-03-18,USA,Debit Card,33
+1063,Sophia Lopez,Clothing,Backpack,1,72.00,2024-03-19,Spain,Credit Card,30
+1064,Alex Johnson,Electronics,Mouse Pad,4,9.99,2024-03-20,USA,PayPal,25
+1065,Daniel Kim,Home & Garden,Plant Pot Set,3,24.99,2024-03-21,Israel,Credit Card,40
+1066,Avi Shapira,Sports,Skipping Rope,1,12.50,2024-03-22,Israel,Debit Card,22
+1067,Emma Wilson,Books,AWS Cloud Practitioner,1,64.00,2024-03-23,USA,Credit Card,42
+1068,Rachel Green,Electronics,Ring Light,1,45.99,2024-03-24,Israel,PayPal,29
+1069,Yossi Mizrahi,Clothing,Polo Shirt,3,39.99,2024-03-25,Israel,Credit Card,45
+1070,Lucas Silva,Home & Garden,Storage Boxes,4,18.50,2024-03-26,Israel,Debit Card,26
+1071,Chen Wang,Sports,Foam Roller,1,29.99,2024-03-27,Israel,Credit Card,44
+1072,Tom Harris,Electronics,Ethernet Cable 10m,2,15.99,2024-03-28,UK,PayPal,41
+1073,Noa Ben David,Books,Node.js in Action,1,51.00,2024-03-29,Israel,Credit Card,27
+1074,Jennifer Brown,Clothing,Gloves,2,22.50,2024-03-30,Canada,Debit Card,34
+1075,Mark Wilson,Home & Garden,Food Container Set,1,34.99,2024-03-31,UK,Credit Card,37
+1076,Maria Garcia,Electronics,Laptop Bag,1,52.00,2024-04-01,Spain,PayPal,35
+1077,Sarah Cohen,Sports,Exercise Ball,1,28.50,2024-04-02,Israel,Credit Card,28
+1078,David Levi,Books,GraphQL Complete Guide,1,56.00,2024-04-03,Israel,Debit Card,34
+1079,Sophie Martin,Clothing,Cardigan,1,89.00,2024-04-04,France,Credit Card,33
+1080,Michael Brown,Electronics,USB Flash Drive 128GB,2,24.99,2024-04-05,UK,PayPal,31
+1081,Lisa Anderson,Home & Garden,Candle Set,3,19.99,2024-04-06,USA,Credit Card,38
+1082,Moshe Cohen,Sports,Hand Grips,2,11.99,2024-04-07,Israel,Debit Card,37
+1083,Anna Rossi,Electronics,Laptop Cooling Pad,1,32.50,2024-04-08,Italy,Credit Card,30
+1084,Omar Ali,Books,MongoDB Essentials,1,48.00,2024-04-09,Israel,PayPal,39
+1085,Tal Alon,Clothing,Tie,3,26.50,2024-04-10,Israel,Credit Card,31
+1086,Emily Clark,Home & Garden,Dish Rack,1,27.00,2024-04-11,Canada,Debit Card,43
+1087,Robert Miller,Electronics,Streaming Microphone,1,169.99,2024-04-12,USA,Credit Card,46
+1088,Maya Levi,Sports,Pilates Mat,1,35.00,2024-04-13,Israel,PayPal,35
+1089,James Taylor,Books,TypeScript Deep Dive,1,49.50,2024-04-14,Canada,Credit Card,26
+1090,Hila Friedman,Clothing,Socks Pack,4,15.99,2024-04-15,Israel,Debit Card,41
+1091,Nina Patel,Electronics,Desktop Speaker,2,42.50,2024-04-16,UK,Credit Card,29
+1092,Paolo Bianchi,Home & Garden,Knife Set,1,78.00,2024-04-17,Italy,PayPal,28
+1093,Kevin Lee,Sports,Boxing Gloves,1,54.99,2024-04-18,USA,Credit Card,33
+1094,Sophia Lopez,Electronics,Graphics Tablet,1,89.99,2024-04-19,Spain,Debit Card,30
+1095,Alex Johnson,Books,Flutter Development,1,53.00,2024-04-20,USA,Credit Card,25
+1096,Daniel Kim,Clothing,Belt,2,31.50,2024-04-21,Israel,PayPal,40
+1097,Avi Shapira,Home & Garden,Trash Can,1,24.99,2024-04-22,Israel,Credit Card,22
+1098,Emma Wilson,Electronics,Smartwatch Band,3,19.99,2024-04-23,USA,Debit Card,42
+1099,Rachel Green,Sports,Jump Rope Pro,1,18.50,2024-04-24,Israel,Credit Card,29
+1100,Yossi Mizrahi,Books,Agile Methodology,1,44.00,2024-04-25,Israel,PayPal,45

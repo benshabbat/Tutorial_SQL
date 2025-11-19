@@ -1,0 +1,34 @@
+customer_id,customer_name,email,registration_date,country,city,loyalty_tier,total_lifetime_orders
+1,Sarah Cohen,sarah.cohen@email.com,2023-06-15,Israel,Tel Aviv,Gold,12
+2,David Levi,david.levi@email.com,2023-08-22,Israel,Jerusalem,Silver,8
+3,Emma Wilson,emma.wilson@email.com,2023-03-10,USA,New York,Platinum,15
+4,Michael Brown,michael.brown@email.com,2023-07-05,UK,London,Gold,10
+5,Rachel Green,rachel.green@email.com,2023-09-18,Israel,Haifa,Silver,7
+6,James Taylor,james.taylor@email.com,2023-05-25,Canada,Toronto,Bronze,5
+7,Lisa Anderson,lisa.anderson@email.com,2023-04-12,USA,Los Angeles,Gold,11
+8,Yossi Mizrahi,yossi.mizrahi@email.com,2023-02-28,Israel,Netanya,Platinum,18
+9,Sophie Martin,sophie.martin@email.com,2023-10-03,France,Paris,Silver,6
+10,Daniel Kim,daniel.kim@email.com,2023-01-20,Israel,Herzliya,Gold,9
+11,Avi Shapira,avi.shapira@email.com,2023-11-15,Israel,Ramat Gan,Bronze,4
+12,Maria Garcia,maria.garcia@email.com,2023-06-30,Spain,Madrid,Silver,7
+13,Tom Harris,tom.harris@email.com,2023-05-08,UK,Manchester,Gold,13
+14,Noa Ben David,noa.bendavid@email.com,2023-08-14,Israel,Rishon LeZion,Silver,6
+15,John Smith,john.smith@email.com,2023-07-22,USA,Chicago,Bronze,5
+16,Chen Wang,chen.wang@email.com,2023-03-05,Israel,Petah Tikva,Platinum,16
+17,Anna Rossi,anna.rossi@email.com,2023-09-01,Italy,Rome,Silver,8
+18,Omar Ali,omar.ali@email.com,2023-04-18,Israel,Beer Sheva,Gold,10
+19,Tal Alon,tal.alon@email.com,2023-10-25,Israel,Ashdod,Bronze,4
+20,Emily Clark,emily.clark@email.com,2023-02-14,Canada,Vancouver,Platinum,14
+21,Laura White,laura.white@email.com,2023-06-08,USA,Boston,Silver,6
+22,Moshe Cohen,moshe.cohen@email.com,2023-05-30,Israel,Holon,Gold,11
+23,Alex Johnson,alex.johnson@email.com,2023-08-05,USA,Seattle,Bronze,3
+24,Kevin Lee,kevin.lee@email.com,2023-07-12,USA,San Francisco,Gold,12
+25,Nina Patel,nina.patel@email.com,2023-09-22,UK,Birmingham,Silver,7
+26,Robert Miller,robert.miller@email.com,2023-03-28,USA,Miami,Platinum,17
+27,Maya Levi,maya.levi@email.com,2023-04-07,Israel,Bat Yam,Gold,10
+28,Paolo Bianchi,paolo.bianchi@email.com,2023-10-15,Italy,Milan,Bronze,5
+29,Hila Friedman,hila.friedman@email.com,2023-02-01,Israel,Kfar Saba,Platinum,15
+30,Mark Wilson,mark.wilson@email.com,2023-06-20,UK,Leeds,Silver,8
+31,Sophia Lopez,sophia.lopez@email.com,2023-08-28,Spain,Barcelona,Gold,9
+32,Lucas Silva,lucas.silva@email.com,2023-05-16,Israel,Eilat,Bronze,4
+33,Jennifer Brown,jennifer.brown@email.com,2023-07-03,Canada,Montreal,Silver,6
